@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi everyone 👋
 
 <!--
 **ruzs/ruzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzs&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzs&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzs&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzs&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzs&theme=2077&utcOffset=8)
-# :writing_hand:Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,mysql)
+## :writing_hand:Languages & Tools
+![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,bootstrap,js,jquery,php,mysql,git,photoshop,illustrator)
