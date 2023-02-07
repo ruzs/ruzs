@@ -1,5 +1,5 @@
 # Hi everyone 👋
-I'm Eddie (He/his)—a Junior Web Developer.
+I'm Eddie (He/His)—a Junior Web Developer.
 
 ## Github Stats
 ![Profile views](https://komarev.com/ghpvc/?username=ruzs&color=00FFC8)
