@@ -10,7 +10,7 @@ I'm Eddie (He/His)—a Junior Web Developer.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzs&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzs&theme=2077&utcOffset=8)
 ## :writing_hand:Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,bootstrap,js,jquery,php,laravel,mysql,python,git,photoshop,illustrator)
+![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,bootstrap,js,jquery,php,laravel,mysql,python,qt,git,photoshop,illustrator)
 
 <!--
 **ruzs/ruzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
